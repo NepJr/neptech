@@ -1,0 +1,16 @@
+// Multiblock Names
+neptech.machine.hp_steam_grinder.name=High Pressure Steam Grinder
+neptech.machine.greenhouse.name=Greenhouse
+
+// Recipe Map Names
+recipemap.greenhouse.name=Greenhouse
+
+// Multiblock Descriptions
+neptech.multiblock.hp_steam_grinder_info=Twice the speed of the regular Steam Grinder at the cost of doubling steam usage.
+neptech.multiblock.provides_byproducts=Provides Byproducts!!!
+neptech.multiblock.no_byproducts=Doesn't Provide Byproducts!!!
+
+// Materials
+neptech.material.pyrotheum=Pyrotheum
+neptech.material.cryotheum=Cryotheum
+neptech.material.high_temp_steam=High Temperature Steam
