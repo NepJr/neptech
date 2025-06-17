@@ -21,6 +21,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 	 name = NepTags.MODNAME, 
 	 acceptedMinecraftVersions = "[1.12.2]", 
 	 dependencies = GTInternalTags.DEP_VERSION_STRING)
+
 public class NepTech {
 
     public static final Logger LOGGER = LogManager.getLogger(NepTags.MODID);
